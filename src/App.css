@@ -1,0 +1,31 @@
+body {
+  
+  background: #ff9966;  
+  background: -webkit-linear-gradient(to right, #ff5e62, #ff9966); 
+  background: linear-gradient(to right, #ff5e62, #ff9966); 
+}
+.boton{
+  width: 50vw;
+  height: 50vh;
+  margin: auto;
+  margin-top: 10%;
+  font-size: 3em;
+  font-family: monospace;
+  background-color: white;
+  border-radius: 18px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+Button {
+  width: 7vw;
+  height: 7vh;
+  margin-top: 8px;
+  border-radius: 10px;
+  font-size: 25px;
+  outline:none;
+}
